@@ -2,4 +2,4 @@
 env/
 db.sqlite3
 Pluck/__pycache__/
-*pyc
+pluckapp/__pycache__

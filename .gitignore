@@ -1,3 +1,4 @@
 .vscode/
 env/
 db.sqlite3
+Pluck/__pycache__/

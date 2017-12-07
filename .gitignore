@@ -1,5 +1,5 @@
 .vscode/
 env/
 db.sqlite3
-Pluck/__pycache__/*
-pluckapp/__pycache__/*
+Pluck/__pycache__/
+pluckapp/__pycache__/

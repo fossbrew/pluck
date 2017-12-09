@@ -17,6 +17,6 @@ from django.conf.urls import include, url
 from django.contrib import admin
 
 urlpatterns = [
-    url(r'^', include('pluckapp.urls')),
+    url(r'^', include('pluck.apps.core.urls')),
     url(r'^admin/', admin.site.urls),
 ]
